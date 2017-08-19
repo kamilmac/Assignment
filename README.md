@@ -1,1 +1,4 @@
-# Volumental Frontend Candidate Assignment
+1. npm i
+2. npm start
+
+![](screenshot.png?raw=true)
